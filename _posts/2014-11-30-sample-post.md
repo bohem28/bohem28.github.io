@@ -2,6 +2,7 @@
 layout: post
 title: Sample post
 tags: [test, sample]
+use_math: true
 ---
 $$y = \bar{X}$$ 수식 테스트
 $$
