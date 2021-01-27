@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-themee"
-url: "https://bohem28.github.io/"
+baseurl: ""
+url: "https://bohem28.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
